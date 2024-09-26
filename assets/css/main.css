@@ -2007,7 +2007,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(0, 0, 255, 0.15);
+		background: rgba(54, 151, 255, 0.15);
 		border-radius: 3px;
 		border: none;
 		color: inherit;
@@ -2668,7 +2668,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #76a5af;
+			background-color: #94bafd;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
