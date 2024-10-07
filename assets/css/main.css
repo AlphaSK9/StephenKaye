@@ -2693,6 +2693,9 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:active {
 				background-color: #6fa8dc;
+				-webkit-box-shadow: inset 1px 1px 10px #333;
+       			        -moz-box-shadow:    inset 1px 1px 10px #333;
+        			box-shadow:         inset 1px 1px 10px #333;
 			}
 
 			input[type="submit"].primary.icon:before,
